@@ -1,2 +1,8 @@
-# THE-SELECT-KEYWORD-IN-SQL
-SELECT is a SQL keyword used to retrieve data from a database. It allows you to choose specific columns or all columns from one or more tables.
+# THE-SELECT-STATEMENT
+This project demonstrates how to use the "SELECT" keyword in SQL in a database. It allows you to choose specific columns or return all columns using '*'.
+
+## Tool Used 
+MySQL Workbench
+
+## File included
+mydatabase.sql
